@@ -1,6 +1,6 @@
 # Bài 2. Bắt đầu với Remix IDE
 
--Tạo tài khoản Remix IDE (https://remix.ethereum.org)
+- Tạo tài khoản Remix IDE (https://remix.ethereum.org)
 Cho đoạn code sau:
 ```solidity
 pragma solidity ^0.5.0;
@@ -18,7 +18,7 @@ contract SolidityTest {
 ```
 Tìm cách chạy thử chúng, nếu không chạy được, hãy sửa để có thể chạy!
 
-## Sửa chữa ✅
+## Sửa chữa
 
 - Thêm `// SPDX-License-Identifier: MIT` và cập nhật `pragma` lên `^0.8.20` để tương thích với trình biên dịch hiện tại.
 - `constructor` trong Solidity >= 0.7 không cần (`public`) -> dùng `constructor()`.
