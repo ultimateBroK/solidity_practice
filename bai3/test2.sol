@@ -1,0 +1,11 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.20;
+
+contract SolidityTest {
+    function getResult() public pure returns(uint) {
+        uint a = 1;
+        uint b = 2;
+        uint result = a + b;
+        return result;
+    }
+}
