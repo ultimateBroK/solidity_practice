@@ -5,3 +5,21 @@ Viết một smart contract tên là Counter với các yêu cầu sau:
 - Có hàm increment() để tăng count lên 1
 - Có hàm decrement() để giảm count đi 1
 - Có hàm getCount() để trả về giá trị hiện tại của count
+
+## Kết quả
+
+### Lấy giá trị đếm
+  
+![Lấy giá trị đếm](getCount.png)
+
+---
+
+### Tăng
+
+![Tăng](increment.png)
+
+---
+
+### Giảm
+
+![Giảm](decrement.png)

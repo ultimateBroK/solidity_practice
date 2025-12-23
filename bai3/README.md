@@ -1,4 +1,5 @@
 # Bài 3. Sử dụng biến
+
 **Thử chạy đoạn code sau (tự sửa lỗi nếu có):**
 
 ```solidity
@@ -21,7 +22,9 @@ contract SolidityTest {
 ```
 
 ## Sửa chữa
+
 Vấn đề: Hàm `getResult` tính `a + b` nhưng trả `storedData` thay vì `result`. 
+
 Có 2 hướng giải quyết:
 
 1) Trả về kết quả cộng → trả result
@@ -58,3 +61,15 @@ contract SolidityTest {
     }
 }
 ```
+
+## Kết quả
+
+### 1) Trả về kết quả cộng → trả result
+
+![Kết quả 1](b3_1.png)
+
+---
+
+### 2) Trả về số trong hộp → giữ storedData
+
+![Kết quả 2](b3_2.png)

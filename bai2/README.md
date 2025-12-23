@@ -1,4 +1,5 @@
 # Bài 2. Bắt đầu với Remix IDE
+
 -Tạo tài khoản Remix IDE (https://remix.ethereum.org)
 Cho đoạn code sau:
 ```solidity
@@ -41,3 +42,7 @@ contract SolidityTest {
     }
 }
 ```
+
+## Kết quả
+
+![Kết quả](b2.png)
