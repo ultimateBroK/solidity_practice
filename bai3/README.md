@@ -1,6 +1,6 @@
 # Bài 3. Sử dụng biến
 
-**Thử chạy đoạn code sau (tự sửa lỗi nếu có):**
+Thử chạy đoạn code sau (tự sửa lỗi nếu có):
 
 ```solidity
 pragma solidity ^0.5.0;

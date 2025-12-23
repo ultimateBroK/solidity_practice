@@ -1,6 +1,7 @@
 # Bài 2. Bắt đầu với Remix IDE
 
-- Tạo tài khoản Remix IDE (https://remix.ethereum.org)
+Tạo tài khoản Remix IDE (https://remix.ethereum.org)
+
 Cho đoạn code sau:
 ```solidity
 pragma solidity ^0.5.0;
